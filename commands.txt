@@ -1,0 +1,2 @@
+expo init ToDo
+npm i expo-sqlite
